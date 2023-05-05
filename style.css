@@ -1,4 +1,15 @@
-body{
-    background-color: hsl(189,  47%, 52%);
- color: black rgb(95, 19, 19);
+.cabeçario {
+    background-color: hwb(122 4% 46%);
+ color: black rgb(42, 95, 19);
+display: flex;
+justify-content: space-around;
+padding: 24px 0;
+font-size: 24px;
 }
+ .cabeçario-imagem{
+    width: 20%;
+.cabeçario-lista-item
+{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
